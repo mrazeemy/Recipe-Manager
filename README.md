@@ -3,7 +3,7 @@ Its a Recipe Management System written in Java. User Can Add new Recipes and see
 
 
 Open recipe.rar in your JAVA IDE and Start your server in Services windows.
-After Starting the server click on dataBase And add a DataBase name "PRO DB".
+After Starting the server click on dataBase And add a DataBase name "PRO_DB".
 
 Add a table name "Pro_Table".
 Add four fields id(Primary Key + Auto Indexing), name, username(Unique) and password.
@@ -11,11 +11,11 @@ Add four fields id(Primary Key + Auto Indexing), name, username(Unique) and pass
 Create another Table name "Pro_Table_2".
 Add Three fields title, name, description and username.
 
-Save All the dataBase changes. Now your dataBase 
+Save All the dataBase changes. Now your dataBase is Ready
 
 We create algorithm hare instead of join. they have a one to many relationShip from Pro_table to Pro+Table_2 using Algorithm.
 
-Run The File and Share it to Te world.
+Run The File and Share it to The world.
 
 
 
